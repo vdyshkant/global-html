@@ -5,7 +5,12 @@
 npm install
 ```
 
-then open in browser:
+2. then:
+```shell
+node server
+```
+
+3. open in browser:
 ```shell
 http://localhost:8080/
 ```
